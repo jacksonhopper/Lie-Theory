@@ -1,2 +1,3 @@
-# CT-primes
-A custom theory in Exponential Idle counting primes
+# Custom Theory: Lie Theory
+
+You are interested to know if there is an uppoer limit to the size of a representation of a Lie algebra. So you decide to investigate...
